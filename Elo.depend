@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1435633868 source:/home/mint/Documents/Progra 3/Elo/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Juego.h"
+	<SFML/Audio.hpp>
+
+1435617619 source:/home/mint/Documents/Progra 3/Elo/Juego.cpp
+	"Juego.h"
+	<iostream>
+
+1435617533 /home/mint/Documents/Progra 3/Elo/Juego.h
+	<SFML/Graphics.hpp>
+
